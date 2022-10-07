@@ -75,7 +75,16 @@ CIRCUIT DIAGRAM
 
 
 
-
+### Circuit Diagram:
+### Offset:
+![output](?raw=true)
+### Onset:
+![output](?raw=true)
+### Output:
+###serial monitor: 
+![output](?raw=true)
+### Toggle graph:
+![output](?raw=true)
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
